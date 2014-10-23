@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "30f1a258ddf3e6e30188fe6f8eec2648",
+    "hash": "70c8581d1fdf51d9b6f6dfd2607b2a9d",
     "packages": [
         {
             "name": "symfony/serializer",
@@ -879,18 +879,12 @@
             "time": "2014-10-05 13:53:50"
         }
     ],
-    "aliases": [
-
-    ],
+    "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": [
-
-    ],
+    "stability-flags": [],
     "prefer-stable": false,
     "platform": {
-        "php": ">=5.4"
+        "php": ">=5.5"
     },
-    "platform-dev": [
-
-    ]
+    "platform-dev": []
 }
