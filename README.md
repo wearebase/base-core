@@ -31,6 +31,10 @@ To run tests on a different PHP version, you can use Docker:
 
     $ docker run -it --rm -v "$(pwd)":/home/test -w /home/test php:5.6-cli php ./vendor/bin/phpunit
 
+To run QA tools such as code coverage
+
+    $ ant
+
 
 Contributing
 ------------
