@@ -1,0 +1,34 @@
+{
+    "name": "wearebase/base-core",
+    "minimum-stability": "dev",
+    "description": "Base Core Components",
+    "keywords": ["entity", "core"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dave Hulbert",
+            "email": "dave@wearebase.com"
+        },
+        {
+            "name": "Andy Leon",
+            "email": "andy.leon@wearebase.com"
+        },
+        {
+            "name": "Alex Ross",
+            "email": "alex@wearebase.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Base\\Core\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=5.5",
+        "symfony/serializer": "2.5.*",
+        "symfony/validator": "2.5.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.1"
+    }
+}
