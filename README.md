@@ -4,12 +4,12 @@ Core Component
 What is Core?
 -------------
 
-The Base Core provides classes that are strictly non-application-specific and either non-domain-specific or cross multiple domains.
+The Base Core provides PHP classes that are strictly non-application-specific and either non-domain-specific or cross multiple domains.
 
 Requirements
 ------------
 
-Supported on PHP 5.4 and up and HHVM 3.2 and up.
+Supported on PHP 5.5 and up and HHVM 3.2 and up.
 
 Install in projects
 -------------------
