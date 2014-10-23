@@ -14,7 +14,7 @@ Supported on PHP 5.5 and up and HHVM 3.2 and up.
 Install in projects
 -------------------
 
-    $ composer require base/base-core dev-master
+    $ composer require wearebase/base-core dev-master
 
 Test classes are autoloaded by default. These can be disabled with the `--no-dev` option
 
