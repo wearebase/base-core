@@ -1,6 +1,8 @@
 Core Component
 ==============
 
+![Build status](https://travis-ci.org/wearebase/base-core.svg?branch=master)
+
 What is Core?
 -------------
 
