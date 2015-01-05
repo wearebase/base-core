@@ -1,7 +1,7 @@
 Core Component
 ==============
 
-![Build status](https://travis-ci.org/wearebase/base-core.svg?branch=master)
+[![Build Status](https://travis-ci.org/wearebase/base-core.svg?branch=master)](https://travis-ci.org/wearebase/base-core)
 
 What is Core?
 -------------
