@@ -33,7 +33,7 @@ class ExtensionNormalizer extends SerializerAwareNormalizer implements Normalize
 
     public function supportsNormalization($data, $format = null)
     {
-        return get_class($data) === 'Base\\Core\\Extension\\ExtensionCollection';
+        return is_object($data) && get_class($data) === 'Base\\Core\\Extension\\ExtensionCollection';
     }
 
     public function denormalize($data, $class, $format = null, array $context = [])
