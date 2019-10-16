@@ -1,3 +1,8 @@
+Unsupported
+===========
+
+Base Core is now unsupported and its use is not recommended.
+
 Core Component
 ==============
 
